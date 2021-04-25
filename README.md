@@ -5,7 +5,7 @@ Turbo Care application.
 ## Getting Started
 
 This project is implementation of flutter assignment.
-Please see the user requirement pdf document for app flows and UI mock screens under requirement_document folder
+Please see the user requirement pdf document for app flows and UI mock screens under **requirement_document** folder
 
 
 ## project setup :
