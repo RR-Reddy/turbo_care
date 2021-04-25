@@ -29,6 +29,6 @@ Note: step 2 command is required for generating json to domain classes generatio
 
 ## Commands
 
-json generation command with clean : flutter pub run build_runner build --delete-conflicting-outputs
-generate android apk file command  : flutter build apk --release
+1) json generation command with clean : flutter pub run build_runner build --delete-conflicting-outputs
+2) generate android apk file command  : flutter build apk --release
 
