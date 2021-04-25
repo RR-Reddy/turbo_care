@@ -7,6 +7,8 @@ Turbo Care application.
 This project is implementation of flutter assignment.
 Please see the user requirement pdf document for app flows and UI mock screens under **requirement_document** folder
 
+Please find the working anroid apk file under **requirement_document** folder
+
 
 ## project setup :
 
